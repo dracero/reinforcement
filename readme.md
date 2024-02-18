@@ -1,3 +1,5 @@
+## INSTALL ALL DEPENCIES BEFORE START
+
 ## Space Invaders game by using PyGame module of python
 
 
